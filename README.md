@@ -1,2 +1,4 @@
 # e-soft-ead
-code repositopry for E-Soft EAD module
+## code repositopry for E-Soft EAD module
+## Hello Class!. Use this for your course works. 
+1. web socket - socket programming
